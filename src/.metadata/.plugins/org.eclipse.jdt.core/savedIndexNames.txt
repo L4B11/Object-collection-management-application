@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\java projects\Object-collection-management-application\src\.metadata\.plugins\org.eclipse.jdt.core
